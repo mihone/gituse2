@@ -9,9 +9,6 @@ public class Version12 {
         System.out.println("update code ...");
         System.out.println("version 12 .......");
 
-
-
-
         System.out.println("update code v2 ....");
     }
 }
