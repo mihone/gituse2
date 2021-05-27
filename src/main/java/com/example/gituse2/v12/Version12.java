@@ -12,5 +12,6 @@ public class Version12 {
         System.out.println("update code v2 ....");
 
         System.out.println("mimi update .......");
+        System.out.println("mimi update 222.......");
     }
 }
