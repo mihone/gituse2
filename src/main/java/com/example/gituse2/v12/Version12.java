@@ -13,5 +13,6 @@ public class Version12 {
 
         System.out.println("mimi update .......");
         System.out.println("mimi update 222.......");
+        System.out.println("mimi update 33333.......");
     }
 }
